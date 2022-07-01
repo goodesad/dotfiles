@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adam.goodes@stellantis.com
+	name = Adam Goodes
